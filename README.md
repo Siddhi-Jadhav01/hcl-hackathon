@@ -306,20 +306,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## Application Screenshots
-
-### Home Screen
-
-(Add screenshot here)
-
-### Prediction Results
-
-(Add screenshot here)
-
----
-
 ## Future Improvements
 
 ### Explainable AI
